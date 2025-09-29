@@ -7,14 +7,14 @@
 ---
 
 <p>
-  <a href="https://discord.com/users/@nawfas">
-    <img src="https://cdn.simpleicons.org/discord/ffffff" height="30" />
-  </a>
   <a href="https://t.me/nawfas">
-    <img src="https://cdn.simpleicons.org/telegram/ffffff" height="30" />
+    <img src="https://cdn.simpleicons.org/telegram/26A5E4" height="30" />
   </a>
   <a href="https://t.me/tyzance">
-    <img src="https://cdn.simpleicons.org/telegram/ffffff" height="30" />
+    <img src="https://cdn.simpleicons.org/telegram/26A5E4" height="30" />
+  </a>
+  <a href="https://discord.com/users/@nawfas">
+    <img src="https://cdn.simpleicons.org/discord/ffffff" height="30" />
   </a>
 </p>
 
@@ -49,4 +49,12 @@
 <p>
   <img src="https://cdn.simpleicons.org/docker/ffffff" height="40" />
   <img src="https://cdn.simpleicons.org/kubernetes/ffffff" height="40" />
-  <img src="https://cdn.simpleicons.org/git/fff
+  <img src="https://cdn.simpleicons.org/git/ffffff" height="40" />
+  <img src="https://cdn.simpleicons.org/vercel/ffffff" height="40" />
+</p>
+
+---
+
+[telegram](https://t.me/nawfas) • [telegram alt](https://t.me/tyzance) • [discord](https://discord.com/users/@nawfas)
+
+</div>
