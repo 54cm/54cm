@@ -1,8 +1,6 @@
 <<div align="center">
 
-<img src="myamoquiregardemale.png" alt="Myamo" width="150" style="border-radius:50%;" />  
-
-# Myamo  
+<img src="https://i.imgur.com/sQyjsHK.jpeg" alt="Myamo" width="150" style="border-radius:50%;" />  
 
 @NawFas  
 
