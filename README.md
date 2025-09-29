@@ -1,4 +1,8 @@
-<div align="center">
+<<div align="center">
+
+<img src="myamoquiregardemale.png" alt="Myamo" width="150" style="border-radius:50%;" />  
+
+# Myamo  
 
 @NawFas  
 
@@ -61,7 +65,7 @@
 ### 🖥️ Other Languages
 <p>
   <img src="https://cdn.simpleicons.org/python/ffffff" height="40" style="margin:4px;" />
-  <img src="https://cdn.simpleicons.org/java/ffffff" height="40" style="margin:4px;" />
+  <img src="https://cdn.simpleicons.org/openjdk/ffffff" height="40" style="margin:4px;" />
   <img src="https://cdn.simpleicons.org/cplusplus/ffffff" height="40" style="margin:4px;" />
 </p>
 
