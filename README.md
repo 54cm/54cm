@@ -12,9 +12,6 @@
   <a href="https://t.me/nawfas">
     <img src="https://cdn.simpleicons.org/telegram/8B5E3C" height="30" style="vertical-align:middle;margin:4px;" />
   </a>
-  <a href="https://t.me/tyzance">
-    <img src="https://cdn.simpleicons.org/telegram/8B5E3C" height="30" style="vertical-align:middle;margin:4px;" />
-  </a>
   <a href="https://discord.com/users/@nawfas">
     <img src="https://cdn.simpleicons.org/discord/8B5E3C" height="30" style="vertical-align:middle;margin:4px;" />
   </a>
@@ -109,6 +106,6 @@
 
 ---
 
-[telegram](https://t.me/nawfas) • [telegram alt](https://t.me/tyzance) • [discord](https://discord.com/users/@nawfas)  
+[telegram](https://t.me/nawfas) •  • [discord](https://discord.com/users/@nawfas)  
 
 </div>
